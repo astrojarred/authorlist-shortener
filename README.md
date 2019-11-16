@@ -7,6 +7,8 @@ A script that takes a bibtex file as input and reduces the author lists to a max
 
 Clone the repository with `git clone https://github.com/astrojarred/authorlist-shortener` and that's it!
 
+Written for python 3.
+
 ### Usage
 
 Use with the following:
